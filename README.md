@@ -5,7 +5,7 @@ This repository contains a beginner-friendly notebook that introduces the core c
 ## Run in Google Colab
 Click the button below to open the notebook directly in Colab:
 
-[Open in Colab](https://colab.research.google.com/github/Nikhil0718/Pytorch-fundamentals/blob/main/00_pytorch_fundamentals.ipynb)
+[Open in Colab](https://colab.research.google.com/github/Nikhil00718/Pytorch-fundamentals/blob/main/00_pytorch_fundamentals.ipynb)
 
 ---
 
