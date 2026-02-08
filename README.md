@@ -2,6 +2,10 @@
 
 This repository contains a beginner-friendly notebook that introduces the core concepts of PyTorch. It focuses on tensors and the essential operations required to build a strong foundation for deep learning.
 
+## Run in Google Colab
+Click the button below to open the notebook directly in Colab:
+
+[Open in Colab](https://colab.research.google.com/github/Nikhil0718/Pytorch-fundamentals/blob/main/00_pytorch_fundamentals.ipynb)
 ---
 
 ## Topics Covered
